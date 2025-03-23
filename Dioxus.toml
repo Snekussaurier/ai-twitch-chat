@@ -3,7 +3,7 @@
 [web.app]
 
 # HTML title tag content
-title = "ai-twitch-chat"
+title = "ai-twitch-chat-new"
 
 # include `assets` in web platform
 [web.resource]
